@@ -21,15 +21,15 @@ Sentinel is not just a chatbot; it is a fully autonomous agent designed for high
 ## Demo & Screenshots
 
 ### 1. 🧹 The Cleaner (Auto-Mod)
-![Suspicious User Scan](assets/cleaner.gif)
+![Suspicious User Scan](https://github.com/michealimuse777/Sentinel-Bot-Showcase/blob/main/assets/cleaner.gif?raw=true)
 *Sentinel automatically detecting and banning a scammer.*
 
 ### 2. 🕵️ Real-Time Intelligence
-![Online Search](assets/search.gif)
+![Online Search](https://github.com/michealimuse777/Sentinel-Bot-Showcase/blob/main/assets/search.gif?raw=true)
 *Watch Sentinel browse the live web to answer questions.*
 
 ### 3. 📰 News & Researcher
-![News Search](assets/news.gif)
+![News Search](https://github.com/michealimuse777/Sentinel-Bot-Showcase/blob/main/assets/news.gif?raw=true)
 *Real-time web search and automated crypto news feeds.*
 
 ## Licensing & Purchase
