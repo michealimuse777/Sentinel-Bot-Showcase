@@ -48,4 +48,14 @@ This is a premium, autonomous solution designed for professional communities.
 *   **Full Source Code Rights:** Available for purchase (Seller-Ready).
 *   **Plug & Play:** Includes `setup.bat` and professional `INSTRUCTIONS.md` for instant deployment.
 
+---
+
+## ⚡ Try It Live!
+Want to see Sentinel in action? Join our official demo server and interact with the agent in real-time:
+👉 **[Join the Sentinel Demo Server](https://discord.gg/H7Eppfm7)**
+
+*Note: The demo bot is hosted on a private machine and may occasionally be offline for updates.*
+
+---
+
 *DM me for a live demo or pricing inquiry*
