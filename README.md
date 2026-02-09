@@ -2,17 +2,19 @@
 
 > *The first Discord Security Agent that thinks, researches, and protects in real-time.*
 
-Sentinel is not just a chatbot; it is a fully autonomous agent designed for high-value Web3 and Crypto communities. It combines *LLM reasoning (Gemini 1.5)* with *Live Web Access (DuckDuckGo)* and *Vector Memory (ChromaDB)*.
+Sentinel is not just a chatbot; it is a fully autonomous agent designed for high-value Web3 and Crypto communities. It combines *LLM reasoning (Advanced LLMs)* with *Live Web Access (DuckDuckGo)* and *Vector Memory (ChromaDB)*.
 
 ## Key Features
 * *The Researcher:* Performs live RAG-based web searches to answer questions with current 2026 data.
 * *The News Anchor:* Automatically scrapes and posts breaking crypto headlines every 4 hours.
 * *The Cleaner:* Background process that instantly bans "Support" impersonators and scammers.
 * *Hybrid Memory:* Remembers server context and user interactions.
+* *Admin Training:* Admins can manually train the AI on recent channel history with `/learn`.
+* *Professional Tickets:* Integrated `/ticket` system that generates beautiful HTML transcripts for archiving.
 
 ## Technical Stack
 * *Core:* Python 3.10+, discord.py
-* *AI Engine:* Google Gemini 1.5 Flash
+* *AI Engine:* Advanced LLM APIs (e.g., GPT-4o, Claude 3.5, Gemini)
 * *Database:* ChromaDB (Vector Store)
 * *Tools:* DuckDuckGo Search, Feedparser (RSS)
 
