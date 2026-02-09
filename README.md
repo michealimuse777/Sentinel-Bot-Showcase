@@ -19,7 +19,18 @@ Sentinel is not just a chatbot; it is a fully autonomous agent designed for high
 * *Tools:* DuckDuckGo Search, Feedparser (RSS)
 
 ## Demo & Screenshots
-(Insert your GIFs/Screenshots here - see Phase 2)
+
+### 1. 🧹 The Cleaner (Auto-Mod)
+![Suspicious User Scan](assets/cleaner.gif)
+*Sentinel automatically detecting and banning a scammer.*
+
+### 2. 🕵️ Real-Time Intelligence
+![Online Search](assets/search.gif)
+*Watch Sentinel browse the live web to answer questions.*
+
+### 3. 📰 News & Researcher
+![News Search](assets/news.gif)
+*Real-time web search and automated crypto news feeds.*
 
 ## Licensing & Purchase
 This is a premium, closed-source solution available for license.
